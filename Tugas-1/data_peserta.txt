@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Hary Arrahman  
+2. Email: haryarrahman14@gmail.com
+3. Sistem Operasi yang digunakan: Mac OS
+4. Akun Gitlab/Github: https://github.com/haryarrahman14 or https://github.com/haryarrahman/
+5. Akun Telegram: @haarreyy
